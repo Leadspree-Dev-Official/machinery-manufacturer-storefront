@@ -1,5 +1,7 @@
 # Machinery Manufacturer Storefront & Tracker
 
+🔗 **Live Demo:** [https://leadspree-dev-official.github.io/machinery-manufacturer-storefront/](https://leadspree-dev-official.github.io/machinery-manufacturer-storefront/)
+
 A modern web application built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
