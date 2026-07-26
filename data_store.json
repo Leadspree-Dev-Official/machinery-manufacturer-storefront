@@ -1,0 +1,151 @@
+{
+  "content": {
+    "products": [
+      {
+        "id": "m-101",
+        "name": "Apex G-300 CNC Milling Center",
+        "description": "Ultra-high precision 5-axis CNC machining center designed for continuous high-speed operations. Built to meet Indian BIS and ISO standards, featuring dual-drive rotary axes, real-time thermal compensation, and heavy-cast vibration absorption.",
+        "price": 10500000,
+        "category": "CNC & Milling",
+        "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&auto=format&fit=crop&q=60",
+        "specifications": {
+          "Configuration": "5-Axis Articulated",
+          "Spindle Speed": "12,000 RPM",
+          "Axis Travel (X/Y/Z)": "800 / 600 / 550 mm",
+          "Spindle Taper": "HSK-A63",
+          "Drive System": "Liquid-Cooled Linear Motors",
+          "Base Weight": "4,500 kg"
+        },
+        "isTopSeller": true
+      },
+      {
+        "id": "m-102",
+        "name": "Titan-X Heavy Duty Hydraulic Press",
+        "description": "A high-capacity heavy-duty hydraulic press system featuring micro-touch feedback controls, automatic slide-guide alignment, and active hydraulic fluid cooling. Custom built for Indian automotive component manufacturers.",
+        "price": 7500000,
+        "category": "Heavy Machinery",
+        "imageUrl": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=800&auto=format&fit=crop&q=60",
+        "specifications": {
+          "Pressing Force": "200 Metric Tons",
+          "Slide Stroke": "450 mm",
+          "Daylight Opening": "800 mm",
+          "Platen Dimensions": "1,200 x 1,200 mm",
+          "Power Rating": "37 kW",
+          "Base Weight": "6,200 kg"
+        },
+        "isTopSeller": true
+      },
+      {
+        "id": "m-103",
+        "name": "Aegis Sentinel Robotic Arm",
+        "description": "Advanced multi-joint industrial robotic arm designed for seamless welding, automated material handling, and smart assembly. Includes integrated visual stereo-vision sensors and local RTOS v4 integration.",
+        "price": 3800000,
+        "category": "Automated Robots",
+        "imageUrl": "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=800&auto=format&fit=crop&q=60",
+        "specifications": {
+          "Degree of Freedom": "6 Axes",
+          "Max Payload": "25 kg",
+          "Horizontal Reach": "1,850 mm",
+          "Repeatability": "±0.02 mm",
+          "Controller Platform": "Valkyrie RTOS v4",
+          "Base Weight": "240 kg"
+        },
+        "isTopSeller": false
+      },
+      {
+        "id": "m-104",
+        "name": "Vanguard Precision Laser Cutter",
+        "description": "Industrial fiber laser cutting machine with high thermal concentration. Delivers high speed, exceptional kerf control, and mirror-smooth edges on mild steel and aluminum sheets.",
+        "price": 9200000,
+        "category": "Precision Tools",
+        "imageUrl": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&auto=format&fit=crop&q=60",
+        "specifications": {
+          "Fiber Laser Power": "4.0 kW",
+          "Effective Travel": "3,000 x 1,500 mm",
+          "Max Material (Steel)": "20 mm",
+          "Max Material (Alum)": "12 mm",
+          "Positioning Accuracy": "±0.03 mm/m",
+          "Base Weight": "3,100 kg"
+        },
+        "isTopSeller": false
+      }
+    ],
+    "specialists": [
+      {
+        "id": "s-1",
+        "name": "Dr. Rajesh Iyer",
+        "role": "Chief Systems Architect",
+        "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&auto=format&fit=crop&q=60",
+        "contact": "rajesh.iyer@apex-industrial.co.in"
+      },
+      {
+        "id": "s-2",
+        "name": "Priya Sharma",
+        "role": "Lead Robotics & Automation Engineer",
+        "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&auto=format&fit=crop&q=60",
+        "contact": "priya.sharma@apex-industrial.co.in"
+      }
+    ],
+    "config": {
+      "businessName": "Apex Industrial Systems India",
+      "tagline": "Engineering High-Performance Machinery for Atmanirbhar Bharat",
+      "operatingHours": "Monday - Saturday: 09:00 - 18:00 (IST)",
+      "email": "contact@apex-industrial.co.in",
+      "phone": "+91 (80) 555-APEX",
+      "address": "Plot 12, Phase-II, Peenya Industrial Area, Bengaluru, Karnataka 560058, India",
+      "accentColor": "#D97706"
+    }
+  },
+  "orders": [
+    {
+      "id": "APX-2026-8941",
+      "visitorToken": "client-session-sample-123",
+      "customerInfo": {
+        "name": "Aarav Mehta",
+        "company": "Vortex Automotive India Pvt Ltd",
+        "email": "amehta@vortex-india.co.in",
+        "phone": "+91 98200 12345",
+        "address": "Plot 42, Sector 8, PCNTDA Industrial Area, Bhosari, Pune, Maharashtra 411026",
+        "gstin": "27AADCV1234A1Z5"
+      },
+      "items": [],
+      "customMachine": {
+        "baseModelId": "m-101",
+        "baseModelName": "Apex G-300 CNC Milling Center",
+        "chassis": "Reinforced Aerospace Titanium Alloy (+1,200 kg, +₹12,50,000)",
+        "powerUnit": "Supercharged 30kW Spindle Drive Unit (+450 kg, +₹10,50,000)",
+        "controlSystem": "Smart CNC Autonomous AI Suite (+₹6,70,000)",
+        "addedFeatures": [
+          "Acoustic Dampening Enclosure Block",
+          "High-Volume Coolant Flood Jet Injectors"
+        ],
+        "totalWeightKg": 6150,
+        "totalPrice": 13950000,
+        "materialsBreakdown": [
+          {
+            "material": "Structural Carbon Steel",
+            "percentage": 65
+          },
+          {
+            "material": "Titanium Alloy",
+            "percentage": 20
+          },
+          {
+            "material": "Copper & Electronics",
+            "percentage": 10
+          },
+          {
+            "material": "High-Grade Quartz Composite",
+            "percentage": 5
+          }
+        ]
+      },
+      "totalPrice": 13950000,
+      "orderDate": "2026-07-18T14:30:00+05:30",
+      "status": "Preparing",
+      "notes": "Please calibrate the spindle for high-precision aeronautical grade titanium drilling.",
+      "paymentMethod": "RTGS Bank Transfer",
+      "deliveryMethod": "Freight Carrier (VRL Logistics)"
+    }
+  ]
+}

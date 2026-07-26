@@ -1,0 +1,6 @@
+{
+  "name": "Machinery Manufacturer Storefront & Tracker",
+  "description": "A premium full-stack web application for a high-end machinery manufacturer, featuring a public product catalog, a real-time custom machine builder, client order tracking, and a secured administrator dispatch panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
